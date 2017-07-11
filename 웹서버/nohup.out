@@ -1,0 +1,2800 @@
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-45-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m25.838 ms - -[0m
+rows : [{"id":201133333,"name":"짱구","count":10}]
+[0mGET /users/201133333 [32m200 [0m4.004 ms - 45[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.865 ms - 48[0m
+[0mGET /favicon.ico [33m404 [0m422.311 ms - 1208[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m3.363 ms - -[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m1.905 ms - -[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-45-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET / [32m200 [0m439.650 ms - 228[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-45-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET / [32m200 [0m419.225 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.233 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m41.978 ms - 1208[0m
+rows : [{"id":201120857,"name":"남민엽","count":44,"use_time":"01:02:03"}]
+[0mGET /users/201120857 [32m200 [0m18.548 ms - 70[0m
+[0mGET /favicon.ico [33m404 [0m42.899 ms - 1208[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-45-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : [{"id":201120857,"name":"남민엽","count":44,"use_time":"01:02:03"}]
+[0mGET /users/201120857 [36m304 [0m25.604 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m422.144 ms - 1208[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-45-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m25.074 ms - -[0m
+[0mGET / [32m200 [0m294.252 ms - 228[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m43.236 ms - 1208[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m43.009 ms - 1208[0m
+[0mGET / [32m200 [0m18.818 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.892 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m28.147 ms - 1208[0m
+[0mGET / [32m200 [0m10.613 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.138 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m11.289 ms - 1208[0m
+[0mGET / [32m200 [0m8.835 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.740 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m8.606 ms - 1208[0m
+[0mGET / [36m304 [0m8.736 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.003 ms - -[0m
+[0mGET http://www.baidu.com/favicon.ico [33m404 [0m10.046 ms - 1208[0m
+[0mGET / [32m200 [0m9.484 ms - 228[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m7.519 ms - 1208[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET http://www.baidu.com/favicon.ico [33m404 [0m308.837 ms - 1208[0m
+rows : []
+[0mGET /users/16842960?msg= [32m200 [0m17.134 ms - 2[0m
+rows : []
+[0mGET /users/16842960?msg= [32m200 [0m3.406 ms - 2[0m
+rows : []
+[0mGET /users/16842960?msg= [32m200 [0m1.581 ms - 2[0m
+rows : []
+[0mGET /users/16842960?msg= [32m200 [0m1.498 ms - 2[0m
+rows : []
+[0mGET /users/16842960?msg= [32m200 [0m1.237 ms - 2[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET /users/201120857/data [32m200 [0m25.647 ms - 815[0m
+[0mGET /favicon.ico [33m404 [0m312.664 ms - 1208[0m
+[0mGET / [32m200 [0m37.474 ms - 228[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m3.480 ms - 48[0m
+[0mGET /users/201120857/data [36m304 [0m2.775 ms - -[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m2.252 ms - 48[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m2.794 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.580 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.438 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m2.760 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m6.313 ms - -[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.601 ms - 48[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.457 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m3.038 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.882 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.409 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.515 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.424 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m2.088 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m2.284 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m3.098 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m2.002 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.608 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '201120857data' in 'where clause'
+rows : undefined
+[0mGET /users/201120857data?msg= [32m200 [0m1.511 ms - -[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.858 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m2.490 ms - 815[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m3.529 ms - 815[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m1.749 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.242 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m1.789 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.325 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m1.951 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [36m304 [0m1.699 ms - -[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.522 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m3.155 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.388 ms - 48[0m
+[0mGET /users/?msg= [33m404 [0m40.030 ms - 1208[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.404 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m1.757 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m2.534 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m2.340 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m2.586 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m7.432 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.245 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m2.947 ms - 815[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857?msg= [32m200 [0m1.282 ms - 48[0m
+[0mGET /users/201120857/data?msg= [32m200 [0m1.874 ms - 815[0m
+[0mGET http://www.baidu.com/favicon.ico [33m404 [0m51.717 ms - 1208[0m
+[0mGET / [32m200 [0m33.433 ms - 228[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.403 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m4.294 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.876 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.747 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.222 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.636 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.649 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.242 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.271 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.336 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.361 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m2.889 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.306 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.277 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.268 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m3.609 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m2.241 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.445 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":45}]
+[0mGET /users/201120857 [32m200 [0m1.789 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m22.039 ms - 42[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m16.773 ms - 42[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m8.362 ms - 42[0m
+rows : []
+[0mGET /users/201120857 [32m200 [0m2.561 ms - 2[0m
+rows : []
+[0mGET /users/201120857 [32m200 [0m1.161 ms - 2[0m
+rows : []
+[0mGET /users/201120857 [32m200 [0m1.953 ms - 2[0m
+rows : []
+[0mGET /users/201120857 [32m200 [0m4.475 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.211 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.147 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.297 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.822 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.706 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.236 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.361 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.988 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m2.876 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.245 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.296 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.362 ms - 44[0m
+[0mGET /favicon.ico [33m404 [0m32.222 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [36m304 [0m1.757 ms - -[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [36m304 [0m1.264 ms - -[0m
+[0mGET / [36m304 [0m13.293 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.178 ms - -[0m
+[0mGET / [36m304 [0m20.280 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.439 ms - -[0m
+[0mGET / [36m304 [0m9.349 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.218 ms - -[0m
+[0mGET /users [33m404 [0m10.134 ms - 1208[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.256 ms - -[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [36m304 [0m1.260 ms - -[0m
+[0mGET / [32m200 [0m9.419 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.430 ms - 111[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.304 ms - -[0m
+[0mGET / [36m304 [0m8.471 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.371 ms - -[0m
+[0mGET /bbscan_wants__your_response.php [33m404 [0m9.381 ms - 1208[0m
+[0mGET / [32m200 [0m5.917 ms - 228[0m
+[0mGET /mysql.php [33m404 [0m11.572 ms - 1208[0m
+[0mGET /info.php [33m404 [0m8.349 ms - 1208[0m
+[0mGET /php.php [33m404 [0m19.155 ms - 1208[0m
+[0mGET /phpinfo.php [33m404 [0m7.961 ms - 1208[0m
+[0mGET /test.php [33m404 [0m9.197 ms - 1208[0m
+[0mGET /shell.php [33m404 [0m40.312 ms - 1208[0m
+[0mGET /sql.php [33m404 [0m9.186 ms - 1208[0m
+[0mGET /test/ [33m404 [0m14.735 ms - 1208[0m
+[0mGET /temp.php [33m404 [0m6.531 ms - 1208[0m
+[0mGET /test2.php [33m404 [0m6.850 ms - 1208[0m
+[0mGET /test.html [33m404 [0m6.511 ms - 1208[0m
+[0mGET /test2.html [33m404 [0m6.028 ms - 1208[0m
+[0mGET /test2.txt [33m404 [0m6.361 ms - 1208[0m
+[0mGET /a.php [33m404 [0m6.201 ms - 1208[0m
+[0mGET /debug.php [33m404 [0m13.278 ms - 1208[0m
+[0mGET /b.php [33m404 [0m7.818 ms - 1208[0m
+[0mGET /test.txt [33m404 [0m5.783 ms - 1208[0m
+[0mGET /t.php [33m404 [0m6.596 ms - 1208[0m
+[0mGET /x.php [33m404 [0m8.811 ms - 1208[0m
+[0mGET /i.php [33m404 [0m7.677 ms - 1208[0m
+[0mGET /cgi-bin/test-cgi [33m404 [0m6.782 ms - 1208[0m
+[0mGET /1.php [33m404 [0m5.371 ms - 1208[0m
+[0mGET /cgi-bin/test [33m404 [0m5.928 ms - 1208[0m
+[0mGET /cgi-bin/test.cgi [33m404 [0m6.825 ms - 1208[0m
+[0mGET /admin/ [33m404 [0m8.403 ms - 1208[0m
+[0mGET /admin.php [33m404 [0m7.570 ms - 1208[0m
+[0mGET /admin.do [33m404 [0m7.346 ms - 1208[0m
+[0mGET /login.do [33m404 [0m6.219 ms - 1208[0m
+[0mGET /login.php [33m404 [0m12.622 ms - 1208[0m
+[0mGET /admin.html [33m404 [0m5.000 ms - 1208[0m
+[0mGET /manage/ [33m404 [0m4.194 ms - 1208[0m
+[0mGET /server-status [33m404 [0m4.486 ms - 1208[0m
+[0mGET /server-info/ [33m404 [0m4.989 ms - 1208[0m
+[0mGET /solr/ [33m404 [0m7.682 ms - 1208[0m
+[0mGET /login/ [33m404 [0m4.904 ms - 1208[0m
+[0mGET /fckeditor/_samples/default.html [33m404 [0m5.463 ms - 1208[0m
+[0mGET /ckeditor/samples/ [33m404 [0m4.841 ms - 1208[0m
+[0mGET /examples/ [33m404 [0m5.564 ms - 1208[0m
+[0mGET /examples/servlets/servlet/SessionExample [33m404 [0m4.716 ms - 1208[0m
+[0mGET /manager/html [33m404 [0m5.156 ms - 1208[0m
+[0mGET /app/config/database.yml [33m404 [0m4.298 ms - 1208[0m
+[0mGET /database.yml [33m404 [0m4.319 ms - 1208[0m
+[0mGET /sqlnet.log [33m404 [0m4.261 ms - 1208[0m
+[0mGET /database.log [33m404 [0m4.352 ms - 1208[0m
+[0mGET /db.log [33m404 [0m4.043 ms - 1208[0m
+[0mGET /db.conf [33m404 [0m5.876 ms - 1208[0m
+[0mGET /db.ini [33m404 [0m8.531 ms - 1208[0m
+[0mGET /upload.php [33m404 [0m7.466 ms - 1208[0m
+[0mGET /upfile.php [33m404 [0m3.901 ms - 1208[0m
+[0mGET /upload.html [33m404 [0m6.896 ms - 1208[0m
+[0mGET /jmx-console/HtmlAdaptor [33m404 [0m6.908 ms - 1208[0m
+[0mGET /cacti/ [33m404 [0m7.282 ms - 1208[0m
+[0mGET /zabbix/ [33m404 [0m3.916 ms - 1208[0m
+[0mGET /jenkins/ [33m404 [0m4.702 ms - 1208[0m
+[0mGET /jira/ [33m404 [0m4.328 ms - 1208[0m
+[0mGET /memadmin/index.php [33m404 [0m4.094 ms - 1208[0m
+[0mGET /phpmyadmin/index.php [33m404 [0m4.126 ms - 1208[0m
+[0mGET /_phpmyadmin/index.php [33m404 [0m4.078 ms - 1208[0m
+[0mGET /pma/index.php [33m404 [0m4.585 ms - 1208[0m
+[0mGET /pmadmin/index.php [33m404 [0m4.468 ms - 1208[0m
+[0mGET /config/config_ucenter.php.bak [33m404 [0m3.957 ms - 1208[0m
+[0mGET /config/config_global.php.1 [33m404 [0m3.983 ms - 1208[0m
+[0mGET /uc_server/data/config.inc.php.bak [33m404 [0m3.951 ms - 1208[0m
+[0mGET /config/config_global.php.bak [33m404 [0m3.960 ms - 1208[0m
+[0mGET /include/config.inc.php.tmp [33m404 [0m4.277 ms - 1208[0m
+[0mGET /bbs/.config.inc.php.swp [33m404 [0m8.680 ms - 1208[0m
+[0mGET /access.log [33m404 [0m3.939 ms - 1208[0m
+[0mGET /error.log [33m404 [0m3.817 ms - 1208[0m
+[0mGET /errors.log [33m404 [0m3.979 ms - 1208[0m
+[0mGET /debug.log [33m404 [0m5.418 ms - 1208[0m
+[0mGET /debug.txt [33m404 [0m12.111 ms - 1208[0m
+[0mGET /.bash_history [33m404 [0m4.167 ms - 1208[0m
+[0mGET /.bash_history.php [33m404 [0m3.836 ms - 1208[0m
+[0mGET /.bashrc [33m404 [0m4.126 ms - 1208[0m
+[0mGET /.bash_logout [33m404 [0m3.984 ms - 1208[0m
+[0mGET /.bash_profile [33m404 [0m4.174 ms - 1208[0m
+[0mGET /.vimrc [33m404 [0m4.325 ms - 1208[0m
+[0mGET /.DS_Store [33m404 [0m3.405 ms - 1208[0m
+[0mGET /.history [33m404 [0m4.881 ms - 1208[0m
+[0mGET /.htaccess [33m404 [0m4.269 ms - 1208[0m
+[0mGET /htaccess.bak [33m404 [0m4.467 ms - 1208[0m
+[0mGET /.htpasswd [33m404 [0m3.765 ms - 1208[0m
+[0mGET /.htpasswd.bak [33m404 [0m4.072 ms - 1208[0m
+[0mGET /nohup.out [33m404 [0m4.580 ms - 1208[0m
+[0mGET /.idea/workspace.xml [33m404 [0m4.779 ms - 1208[0m
+[0mGET /.mysql_history [33m404 [0m4.956 ms - 1208[0m
+[0mGET /httpd.conf [33m404 [0m4.320 ms - 1208[0m
+[0mGET /Web.config [33m404 [0m4.987 ms - 1208[0m
+[0mGET /resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=/etc/passwd [33m404 [0m6.043 ms - 1208[0m
+[0mGET /resin-doc/viewfile/?contextpath=/&servletpath=&file=index.jsp [33m404 [0m3.990 ms - 1208[0m
+[0mGET /application/configs/application.ini [33m404 [0m4.008 ms - 1208[0m
+[0mGET /.svn/entries [33m404 [0m3.924 ms - 1208[0m
+[0mGET /.git/index [33m404 [0m3.977 ms - 1208[0m
+[0mGET /.git/config [33m404 [0m4.012 ms - 1208[0m
+[0mGET /.git/HEAD [33m404 [0m3.927 ms - 1208[0m
+[0mGET /wp-login.php [33m404 [0m5.005 ms - 1208[0m
+[0mGET /wp-config.inc [33m404 [0m3.869 ms - 1208[0m
+[0mGET /wp-config.bak [33m404 [0m4.531 ms - 1208[0m
+[0mGET /wp-config.php.inc [33m404 [0m3.953 ms - 1208[0m
+[0mGET /wp-config.php~ [33m404 [0m4.267 ms - 1208[0m
+[0mGET /wp-config.php.swp [33m404 [0m3.878 ms - 1208[0m
+[0mGET /wp-config.php.bak [33m404 [0m3.854 ms - 1208[0m
+[0mGET /.ssh/id_rsa [33m404 [0m6.058 ms - 1208[0m
+[0mGET /id_rsa [33m404 [0m3.931 ms - 1208[0m
+[0mGET /.ssh/id_dsa [33m404 [0m4.090 ms - 1208[0m
+[0mGET /id_dsa [33m404 [0m4.109 ms - 1208[0m
+[0mGET /.ssh/id_dsa.pub [33m404 [0m4.153 ms - 1208[0m
+[0mGET /.ssh/authorized_keys [33m404 [0m4.302 ms - 1208[0m
+[0mGET /owa/ [33m404 [0m3.913 ms - 1208[0m
+[0mGET /.ssh/id_rsa.pub [33m404 [0m4.129 ms - 1208[0m
+[0mGET /install.log [33m404 [0m5.529 ms - 1208[0m
+[0mGET /install.txt [33m404 [0m3.864 ms - 1208[0m
+[0mGET /INSTALL.TXT [33m404 [0m4.418 ms - 1208[0m
+[0mGET /config.inc [33m404 [0m3.888 ms - 1208[0m
+[0mGET /config.php [33m404 [0m12.012 ms - 1208[0m
+[0mGET /config.dat [33m404 [0m4.133 ms - 1208[0m
+[0mGET /config.ini [33m404 [0m4.446 ms - 1208[0m
+[0mGET /conf/config.ini [33m404 [0m15.438 ms - 1208[0m
+[0mGET /configuration.ini [33m404 [0m3.809 ms - 1208[0m
+[0mGET /config/config.ini [33m404 [0m5.044 ms - 1208[0m
+[0mGET /configs/application.ini [33m404 [0m3.760 ms - 1208[0m
+[0mGET /settings.ini [33m404 [0m5.244 ms - 1208[0m
+[0mGET /conf.ini [33m404 [0m6.531 ms - 1208[0m
+[0mGET /config.json [33m404 [0m3.868 ms - 1208[0m
+[0mGET /log [33m404 [0m3.772 ms - 1208[0m
+[0mGET /output [33m404 [0m4.673 ms - 1208[0m
+[0mGET /logs [33m404 [0m3.723 ms - 1208[0m
+[0mGET /a.out [33m404 [0m3.809 ms - 1208[0m
+[0mGET /test [33m404 [0m3.737 ms - 1208[0m
+[0mGET /tmp [33m404 [0m3.881 ms - 1208[0m
+[0mGET /user.txt [33m404 [0m3.778 ms - 1208[0m
+[0mGET /users.txt [33m404 [0m4.370 ms - 1208[0m
+[0mGET /key.txt [33m404 [0m11.029 ms - 1208[0m
+[0mGET /keys.txt [33m404 [0m3.431 ms - 1208[0m
+[0mGET /passwd.txt [33m404 [0m3.848 ms - 1208[0m
+[0mGET /password.txt [33m404 [0m3.816 ms - 1208[0m
+[0mGET /php.ini [33m404 [0m6.916 ms - 1208[0m
+[0mGET /sftp-config.json [33m404 [0m5.310 ms - 1208[0m
+[0mGET /index.php.bak [33m404 [0m4.524 ms - 1208[0m
+[0mGET /index.php.swp [33m404 [0m4.697 ms - 1208[0m
+[0mGET /../../../../../../../../../../../../../etc/passwd [33m404 [0m4.423 ms - 1208[0m
+[0mGET /../../../../../../../../../../../../../etc/hosts [33m404 [0m5.105 ms - 1208[0m
+[0mGET /../../../../../../../../../../../../../etc/sysconfig/network-scripts/ifcfg-eth1 [33m404 [0m5.093 ms - 1208[0m
+[0mGET /À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/etc/hosts [33m404 [0m5.244 ms - 1208[0m
+[0mGET /../../../../../../../../../etc/passwd [33m404 [0m4.640 ms - 1208[0m
+[0mGET //././././././././././././././././././././././././../../../../../../../../etc/passwd [33m404 [0m5.000 ms - 1208[0m
+[0mGET /..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd [33m404 [0m5.472 ms - 1208[0m
+[0mGET /etc/passwd [33m404 [0m5.315 ms - 1208[0m
+[0mGET /etc/hosts [33m404 [0m5.211 ms - 1208[0m
+[0mGET /core [33m404 [0m5.140 ms - 1208[0m
+[0mGET /aa/../../cc/../../bb/../../dd/../../aa/../../cc/../../bb/../../dd/../../bb/../../dd/../../bb/../../dd/../../bb/../../dd/../../ee/../../etc/hosts [33m404 [0m5.058 ms - 1208[0m
+[0mGET /52.zip [33m404 [0m8.036 ms - 1208[0m
+[0mGET /52.rar [33m404 [0m4.699 ms - 1208[0m
+[0mGET /52.tar.gz [33m404 [0m5.145 ms - 1208[0m
+[0mGET /52.tar.bz2 [33m404 [0m5.498 ms - 1208[0m
+[0mGET /52.tgz [33m404 [0m10.660 ms - 1208[0m
+[0mGET /52.7z [33m404 [0m6.196 ms - 1208[0m
+[0mGET /52.78.209.143.zip [33m404 [0m4.520 ms - 1208[0m
+[0mGET /52.78.209.143.rar [33m404 [0m3.835 ms - 1208[0m
+[0mGET /52.78.209.143.tar.gz [33m404 [0m3.751 ms - 1208[0m
+[0mGET /52.78.209.143.tar.bz2 [33m404 [0m4.052 ms - 1208[0m
+[0mGET /52.78.209.143.tgz [33m404 [0m4.363 ms - 1208[0m
+[0mGET /52.78.209.143.7z [33m404 [0m4.183 ms - 1208[0m
+[0mGET /backup.zip [33m404 [0m3.918 ms - 1208[0m
+[0mGET /backup.rar [33m404 [0m4.616 ms - 1208[0m
+[0mGET /backup.tar.gz [33m404 [0m5.266 ms - 1208[0m
+[0mGET /back.tar.bz2 [33m404 [0m3.921 ms - 1208[0m
+[0mGET /backup.tgz [33m404 [0m3.334 ms - 1208[0m
+[0mGET /db.zip [33m404 [0m3.901 ms - 1208[0m
+[0mGET /db.rar [33m404 [0m4.423 ms - 1208[0m
+[0mGET /db.tgz [33m404 [0m3.779 ms - 1208[0m
+[0mGET /db.tar.bz2 [33m404 [0m3.783 ms - 1208[0m
+[0mGET /db.inc [33m404 [0m3.803 ms - 1208[0m
+[0mGET /db.tar.gz [33m404 [0m3.814 ms - 1208[0m
+[0mGET /db.sqlite [33m404 [0m4.239 ms - 1208[0m
+[0mGET /data.zip [33m404 [0m3.864 ms - 1208[0m
+[0mGET /data.rar [33m404 [0m4.133 ms - 1208[0m
+[0mGET /data.tar.gz [33m404 [0m4.609 ms - 1208[0m
+[0mGET /data.tgz [33m404 [0m3.982 ms - 1208[0m
+[0mGET /data.tar.bz2 [33m404 [0m4.534 ms - 1208[0m
+[0mGET /database.zip [33m404 [0m3.484 ms - 1208[0m
+[0mGET /database.rar [33m404 [0m5.273 ms - 1208[0m
+[0mGET /database.tar.gz [33m404 [0m6.216 ms - 1208[0m
+[0mGET /database.tgz [33m404 [0m3.816 ms - 1208[0m
+[0mGET /database.tar.bz2 [33m404 [0m4.535 ms - 1208[0m
+[0mGET /ftp.zip [33m404 [0m3.672 ms - 1208[0m
+[0mGET /ftp.rar [33m404 [0m3.848 ms - 1208[0m
+[0mGET /ftp.tar.gz [33m404 [0m3.522 ms - 1208[0m
+[0mGET /ftp.tgz [33m404 [0m3.351 ms - 1208[0m
+[0mGET /ftp.tar.bz2 [33m404 [0m3.517 ms - 1208[0m
+[0mGET /log.txt [33m404 [0m3.741 ms - 1208[0m
+[0mGET /log.tar.gz [33m404 [0m3.584 ms - 1208[0m
+[0mGET /log.rar [33m404 [0m3.788 ms - 1208[0m
+[0mGET /log.zip [33m404 [0m3.776 ms - 1208[0m
+[0mGET /log.tgz [33m404 [0m4.786 ms - 1208[0m
+[0mGET /log.tar.bz2 [33m404 [0m3.788 ms - 1208[0m
+[0mGET /logs/error.log [33m404 [0m3.569 ms - 1208[0m
+[0mGET /web.zip [33m404 [0m3.671 ms - 1208[0m
+[0mGET /web.rar [33m404 [0m3.765 ms - 1208[0m
+[0mGET /web.tar.gz [33m404 [0m3.785 ms - 1208[0m
+[0mGET /web.tgz [33m404 [0m3.542 ms - 1208[0m
+[0mGET /web.tar.bz2 [33m404 [0m3.646 ms - 1208[0m
+[0mGET /www.log [33m404 [0m3.767 ms - 1208[0m
+[0mGET /www.zip [33m404 [0m3.551 ms - 1208[0m
+[0mGET /www.rar [33m404 [0m4.261 ms - 1208[0m
+[0mGET /www.tgz [33m404 [0m3.855 ms - 1208[0m
+[0mGET /www.tar.bz2 [33m404 [0m3.727 ms - 1208[0m
+[0mGET /www.tar.gz [33m404 [0m4.751 ms - 1208[0m
+[0mGET /wwwroot.tar.gz [33m404 [0m3.716 ms - 1208[0m
+[0mGET /wwwroot.zip [33m404 [0m3.826 ms - 1208[0m
+[0mGET /wwwroot.rar [33m404 [0m3.832 ms - 1208[0m
+[0mGET /wwwroot.tar.bz2 [33m404 [0m3.693 ms - 1208[0m
+[0mGET /wwwroot.tgz [33m404 [0m3.837 ms - 1208[0m
+[0mGET /sql.log [33m404 [0m3.803 ms - 1208[0m
+[0mGET /sql.zip [33m404 [0m4.239 ms - 1208[0m
+[0mGET /sql.rar [33m404 [0m3.731 ms - 1208[0m
+[0mGET /sql.tgz [33m404 [0m4.422 ms - 1208[0m
+[0mGET /sql.tar.gz [33m404 [0m3.706 ms - 1208[0m
+[0mGET /database.sql [33m404 [0m3.564 ms - 1208[0m
+[0mGET /sql.tar.bz2 [33m404 [0m3.580 ms - 1208[0m
+[0mGET /sql.inc [33m404 [0m3.512 ms - 1208[0m
+[0mGET /data.sql [33m404 [0m5.574 ms - 1208[0m
+[0mGET /db.sql [33m404 [0m3.862 ms - 1208[0m
+[0mGET /test.sql [33m404 [0m3.776 ms - 1208[0m
+[0mGET /admin.sql [33m404 [0m4.234 ms - 1208[0m
+[0mGET /backup.sql [33m404 [0m3.245 ms - 1208[0m
+[0mGET /user.sql [33m404 [0m4.288 ms - 1208[0m
+[0mGET /index.zip [33m404 [0m3.802 ms - 1208[0m
+[0mGET /sql.sql [33m404 [0m3.970 ms - 1208[0m
+[0mGET /index.7z [33m404 [0m3.163 ms - 1208[0m
+[0mGET /index.tar.bz2 [33m404 [0m3.877 ms - 1208[0m
+[0mGET /index.bak [33m404 [0m3.933 ms - 1208[0m
+[0mGET /index.rar [33m404 [0m3.893 ms - 1208[0m
+[0mGET /index.tar.tz [33m404 [0m3.500 ms - 1208[0m
+[0mGET /index.tar.gz [33m404 [0m4.162 ms - 1208[0m
+[0mGET /52.78.209.143.log [33m404 [0m4.791 ms - 1208[0m
+[0mGET /logs/logs.log [33m404 [0m3.527 ms - 1208[0m
+[0mGET /WEB-INF/applicationContext.xml [33m404 [0m3.829 ms - 1208[0m
+[0mGET /WEB-INF/web.xml [33m404 [0m3.546 ms - 1208[0m
+[0mGET /WEB-INF/web.xml.bak [33m404 [0m3.733 ms - 1208[0m
+[0mGET /WEB-INF/applicationContext-slave.xml [33m404 [0m3.865 ms - 1208[0m
+[0mGET /WEB-INF/config.xml [33m404 [0m3.701 ms - 1208[0m
+[0mGET /WEB-INF/spring.xml [33m404 [0m4.998 ms - 1208[0m
+[0mGET /WEB-INF/struts-config.xml [33m404 [0m4.354 ms - 1208[0m
+[0mGET /WEB-INF/struts-front-config.xml [33m404 [0m3.615 ms - 1208[0m
+[0mGET /WEB-INF/struts/struts-config.xml [33m404 [0m3.736 ms - 1208[0m
+[0mGET /WEB-INF/classes/struts.xml [33m404 [0m3.862 ms - 1208[0m
+[0mGET /WEB-INF/classes/config/ [33m404 [0m4.109 ms - 1208[0m
+[0mGET /WEB-INF/classes/spring.xml [33m404 [0m8.394 ms - 1208[0m
+[0mGET /WEB-INF/classes/struts_manager.xml [33m404 [0m3.799 ms - 1208[0m
+[0mGET /WEB-INF/classes/conf/datasource.xml [33m404 [0m3.803 ms - 1208[0m
+[0mGET /WEB-INF/classes/data.xml [33m404 [0m3.635 ms - 1208[0m
+[0mGET /WEB-INF/classes/ [33m404 [0m3.292 ms - 1208[0m
+[0mGET /WEB-INF/classes/config/applicationContext.xml [33m404 [0m4.448 ms - 1208[0m
+[0mGET /WEB-INF/classes/applicationContext.xml [33m404 [0m4.103 ms - 1208[0m
+[0mGET /WEB-INF/classes/conf/spring/applicationContext-datasource.xml [33m404 [0m5.264 ms - 1208[0m
+[0mGET /WEB-INF/config/db/dataSource.xml [33m404 [0m5.422 ms - 1208[0m
+[0mGET /WEB-INF/spring-cfg/applicationContext.xml [33m404 [0m5.156 ms - 1208[0m
+[0mGET /WEB-INF/classes/hibernate.cfg.xml [33m404 [0m4.979 ms - 1208[0m
+[0mGET /WEB-INF/dwr.xml [33m404 [0m4.862 ms - 1208[0m
+[0mGET /WEB-INF/database.properties [33m404 [0m5.491 ms - 1208[0m
+[0mGET /WEB-INF/classes/rabbitmq.xml [33m404 [0m4.989 ms - 1208[0m
+[0mGET /WEB-INF/web.properties [33m404 [0m5.811 ms - 1208[0m
+[0mGET /WEB-INF/log4j.properties [33m404 [0m5.915 ms - 1208[0m
+[0mGET /WEB-INF/classes/dataBase.properties [33m404 [0m5.065 ms - 1208[0m
+[0mGET /WEB-INF/classes/application.properties [33m404 [0m5.576 ms - 1208[0m
+[0mGET /WEB-INF/classes/jdbc.properties [33m404 [0m7.141 ms - 1208[0m
+[0mGET /WEB-INF/classes/db.properties [33m404 [0m5.281 ms - 1208[0m
+[0mGET /WEB-INF/classes/conf/jdbc.properties [33m404 [0m5.114 ms - 1208[0m
+[0mGET /WEB-INF/conf/database_config.properties [33m404 [0m5.469 ms - 1208[0m
+[0mGET /WEB-INF/classes/security.properties [33m404 [0m8.677 ms - 1208[0m
+[0mGET /WEB-INF/config/dbconfig [33m404 [0m4.972 ms - 1208[0m
+[0mGET /WEB-INF/conf/activemq.xml [33m404 [0m5.906 ms - 1208[0m
+[0mGET /server.xml [33m404 [0m7.524 ms - 1208[0m
+[0mGET /config/database.yml [33m404 [0m18.323 ms - 1208[0m
+[0mGET / [32m200 [0m5.280 ms - 228[0m
+[0mHEAD /phpmyadmin/index.php [33m404 [0m5.468 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m9.601 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.432 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.292 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.186 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.163 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.676 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.821 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.133 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.230 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.135 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m4.581 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.164 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.149 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m2.900 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.149 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.182 ms - 44[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.535 ms - 44[0m
+[0mGET /users/201133333/data [32m200 [0m1.667 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.334 ms - 223[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.217 ms - 44[0m
+[0mGET /users/201133333/data [32m200 [0m1.301 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.919 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.302 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.411 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.232 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.229 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m2.483 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m3.232 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.955 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.214 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.219 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.172 ms - 223[0m
+[0mGET /users/201133333/data [32m200 [0m1.482 ms - 223[0m
+err : Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`Pee`.`Data`, CONSTRAINT `user_id` FOREIGN KEY (`user_id`) REFERENCES `User` (`id`))
+rows : undefined
+/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:78
+        throw err; // Rethrow non-MySQL errors
+        ^
+
+TypeError: Cannot read property 'count' of undefined
+    at Query._callback (/home/ubuntu/node-project/test1/routes/users.js:58:45)
+    at Query.Sequence.end (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/ubuntu/node-project/test1/node_modules/mysql/lib/Connection.js:109:28)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m25.327 ms - 44[0m
+[0mGET /users/201133333/data [32m200 [0m5.270 ms - 223[0m
+rows : [{"id":201133333,"name":"짱구","count":3}]
+[0mGET /users/201133333 [32m200 [0m1.799 ms - 44[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m22.438 ms - 42[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.745 ms - 42[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m46.586 ms - 168[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET / [32m200 [0m301.631 ms - 228[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m44.508 ms - 1208[0m
+[0mGET http://clientapi.ipip.net/echo.php?info=20161207052743 [33m404 [0m40.396 ms - 1208[0m
+[0mGET / [32m200 [0m20.460 ms - 228[0m
+[0mHEAD / [32m200 [0m26.325 ms - 228[0m
+rows : [{"id":201133333,"name":"짱구","count":14}]
+[0mGET /users/201133333 [32m200 [0m16.204 ms - 45[0m
+[0mGET / [32m200 [0m8.729 ms - 228[0m
+[0mPOST /users/201133333/data [33m404 [0m12.887 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m13.616 ms - 1208[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m27.012 ms - 2[0m
+[0mPOST /users/201133333/data [33m404 [0m10.164 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m14.554 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m15.829 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m6.002 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m8.736 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m11.706 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m8.581 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m9.144 ms - 1208[0m
+[0mPOST /users/201133333/data [0m- [0m- ms - -[0m
+[0mPOST /users/201133333/data [33m404 [0m8.562 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":15}]
+[0mGET /users/201133333 [32m200 [0m2.036 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":15}]
+[0mGET /users/201133333 [32m200 [0m1.953 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.805 ms - 2[0m
+[0mPOST /users/201133333/data [33m404 [0m19.444 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m44.284 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":16}]
+[0mGET /users/201133333 [32m200 [0m3.724 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":16}]
+[0mGET /users/201133333 [32m200 [0m1.925 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":16}]
+[0mGET /users/201133333 [32m200 [0m2.334 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":16}]
+[0mGET /users/201133333 [32m200 [0m1.819 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":16}]
+[0mGET /users/201133333 [32m200 [0m1.281 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m18.573 ms - 2[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.199 ms - 2[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m6.548 ms - 2[0m
+[0mPOST /users/201133333/data [33m404 [0m50.519 ms - 1208[0m
+[0mGET /users/201133333/data [32m200 [0m3.799 ms - 1190[0m
+[0mGET /users/201133333/data [32m200 [0m1.660 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.316 ms - 45[0m
+err : Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`Pee`.`Data`, CONSTRAINT `user_id` FOREIGN KEY (`user_id`) REFERENCES `User` (`id`))
+rows : undefined
+/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:78
+        throw err; // Rethrow non-MySQL errors
+        ^
+
+TypeError: Cannot read property 'count' of undefined
+    at Query._callback (/home/ubuntu/node-project/test1/routes/users.js:58:45)
+    at Query.Sequence.end (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/ubuntu/node-project/test1/node_modules/mysql/lib/Connection.js:109:28)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : []
+[0mGET /users/201133332 [36m304 [0m25.446 ms - -[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m4.362 ms - 45[0m
+rows : []
+[0mGET /users/201133332 [36m304 [0m1.777 ms - -[0m
+[0mGET /users/201133332/data [32m200 [0m1.806 ms - 2[0m
+[0mGET /users/201133333/data [32m200 [0m4.066 ms - 1190[0m
+err : Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`Pee`.`Data`, CONSTRAINT `user_id` FOREIGN KEY (`user_id`) REFERENCES `User` (`id`))
+rows : undefined
+/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:78
+        throw err; // Rethrow non-MySQL errors
+        ^
+
+TypeError: Cannot read property 'count' of undefined
+    at Query._callback (/home/ubuntu/node-project/test1/routes/users.js:58:45)
+    at Query.Sequence.end (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/ubuntu/node-project/test1/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/ubuntu/node-project/test1/node_modules/mysql/lib/Connection.js:109:28)
+    at emitOne (events.js:77:13)
+    at Socket.emit (events.js:169:7)
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m25.814 ms - 45[0m
+[0mGET /favicon.ico [33m404 [0m306.119 ms - 1208[0m
+rows : []
+[0mGET /users/201133343 [32m200 [0m4.043 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m2.454 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.697 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.139 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.193 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.803 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m2.183 ms - 2[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.654 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.475 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m3.285 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.324 ms - 45[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m2.085 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.866 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.205 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m3.583 ms - 1190[0m
+rows : []
+[0mGET /users/201132333 [32m200 [0m1.341 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.271 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.593 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.281 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.324 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.847 ms - 45[0m
+[0mGET /users/201133333/data [32m200 [0m1.765 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m3.388 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.829 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m3.752 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.629 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.229 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.997 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m2.505 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m3.332 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.536 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m7.502 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.271 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.282 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.200 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.468 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.260 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.316 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.734 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.273 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.210 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m6.744 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m5.119 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.257 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.014 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.257 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.209 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.234 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.836 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.320 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.482 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.559 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.487 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.310 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.365 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.175 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.617 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.310 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.484 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m3.192 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.811 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.202 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.600 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.958 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m11.228 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.399 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.128 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.273 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.705 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m2.166 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.099 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.348 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.452 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.223 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.407 ms - 1190[0m
+[0mGET /201133333 [33m404 [0m56.681 ms - 1208[0m
+rows : []
+[0mGET /users/201133343 [32m200 [0m1.320 ms - 2[0m
+rows : []
+[0mGET /users/201133343 [32m200 [0m1.797 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.224 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.467 ms - 1190[0m
+[0mGET /201133333 [33m404 [0m24.744 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m2.764 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.549 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.187 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.139 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.338 ms - 1190[0m
+[0mGET /201133333 [33m404 [0m24.527 ms - 1208[0m
+[0mGET / [32m200 [0m18.064 ms - 228[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.272 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.613 ms - 1190[0m
+[0mGET /201133333 [33m404 [0m11.455 ms - 1208[0m
+[0mGET /996699999 [33m404 [0m16.747 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.297 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.472 ms - 1190[0m
+[0mGET /201133333 [33m404 [0m10.421 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.774 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.535 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.663 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.550 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.186 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m3.151 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.261 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.795 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.150 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.045 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.178 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.339 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.217 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.256 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.569 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.572 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m22.187 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.277 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m10.925 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.848 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m50.580 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.198 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m47.926 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.821 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m12.751 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.296 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m15.828 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.220 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m13.649 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.288 ms - 45[0m
+[0mPOST /users/201133333 [33m400 [0m14.913 ms - 967[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.310 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.335 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.045 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m6.088 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.510 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.248 ms - 45[0m
+rows : []
+[0mGET /users/201133334?msg= [32m200 [0m1.177 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.217 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.521 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.296 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.306 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.765 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.124 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.258 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.861 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.315 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.406 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.347 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.437 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m12.507 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m2.412 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.422 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.319 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.523 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.578 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.475 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.172 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.739 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.276 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.293 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.348 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.414 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.139 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.191 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.459 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.407 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.289 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.253 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.436 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.263 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.220 ms - 45[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m14.051 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.172 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.797 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.085 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.163 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.268 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.225 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.186 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.427 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.097 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.402 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.252 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.212 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.267 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.441 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.209 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.438 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.226 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.312 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.352 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.384 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.473 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.960 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.516 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.396 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.292 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.377 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.702 ms - 45[0m
+[0mGET /xmlrpc.php [33m404 [0m12.985 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.354 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.381 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.292 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m3.797 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.400 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.350 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.913 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.292 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.433 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.182 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.398 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.210 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.350 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.220 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m2.344 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m6.465 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m8.205 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.232 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.102 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.120 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.137 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.144 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.197 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.297 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.184 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.433 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.122 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.085 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.386 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m2.966 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.393 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.262 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.219 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.391 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.111 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.125 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.508 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.118 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.126 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.047 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m5.857 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.779 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.130 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.363 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.143 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.141 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.621 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.271 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.237 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.139 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.124 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.099 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.310 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.204 ms - 45[0m
+rows : []
+[0mGET /users/201133343 [32m200 [0m1.194 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.607 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.256 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.456 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.274 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.228 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.276 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.140 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.079 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.469 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.064 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.514 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.265 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.065 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.163 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.377 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.261 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.376 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.151 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m6.335 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.225 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.436 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.248 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.234 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.424 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.153 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.433 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.994 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.444 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.288 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.461 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.340 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.504 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.315 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.375 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333?msg= [32m200 [0m1.234 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.386 ms - 1190[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.433 ms - 1190[0m
+rows : [{"id":201133333,"name":"짱구","count":19}]
+[0mGET /users/201133333 [32m200 [0m1.211 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m7.741 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":20}]
+[0mGET /users/201133333 [32m200 [0m1.286 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.499 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":21}]
+[0mGET /users/201133333 [32m200 [0m1.230 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.433 ms - 2[0m
+rows : []
+[0mGET /users/222222222 [32m200 [0m1.731 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333 [32m200 [0m1.289 ms - 45[0m
+[0mHEAD http://180.163.113.82/check_proxy [33m404 [0m13.203 ms - 1208[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m3.486 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m3.528 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m1.727 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m1.544 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m1.804 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m2.468 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m1.477 ms - -[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column '20113333ㅣ' in 'where clause'
+rows : undefined
+[0mGET /users/20113333%E3%85%A3?msg= [32m200 [0m1.283 ms - -[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.287 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.236 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.688 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.241 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.158 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.167 ms - 45[0m
+rows : []
+[0mGET /users/201133311?msg= [32m200 [0m1.191 ms - 2[0m
+rows : []
+[0mGET /users/201133311?msg= [32m200 [0m1.550 ms - 2[0m
+rows : []
+[0mGET /users/2016677?msg= [32m200 [0m1.185 ms - 2[0m
+rows : []
+[0mGET /users/2016677?msg= [32m200 [0m1.228 ms - 2[0m
+rows : []
+[0mGET /users/49372738?msg= [32m200 [0m1.388 ms - 2[0m
+rows : []
+[0mGET /users/49372738?msg= [32m200 [0m1.221 ms - 2[0m
+rows : []
+[0mGET /users/374738474?msg= [32m200 [0m2.866 ms - 2[0m
+rows : []
+[0mGET /users/374738474?msg= [32m200 [0m1.094 ms - 2[0m
+rows : []
+[0mGET /users/293748374?msg= [32m200 [0m1.224 ms - 2[0m
+rows : []
+[0mGET /users/293748374?msg= [32m200 [0m2.506 ms - 2[0m
+rows : []
+[0mGET /users/293748374?msg= [32m200 [0m10.412 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.130 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333?msg= [32m200 [0m1.166 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":22}]
+[0mGET /users/201133333 [32m200 [0m1.144 ms - 45[0m
+rows : []
+[0mGET /users/203485736?msg= [32m200 [0m2.837 ms - 2[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m13.680 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":23}]
+[0mGET /users/201133333 [32m200 [0m1.142 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m6.518 ms - 2[0m
+rows : []
+[0mGET /users/201846294?msg= [32m200 [0m1.384 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333 [32m200 [0m1.185 ms - 45[0m
+rows : []
+[0mGET /users/200300000 [32m200 [0m2.920 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333 [32m200 [0m2.006 ms - 45[0m
+rows : []
+[0mGET /users/201837492?msg= [32m200 [0m1.166 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.971 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.404 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.268 ms - 1520[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.346 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m2.874 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.301 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.269 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.182 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m2.339 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.396 ms - 1520[0m
+rows : []
+[0mGET /users/204957395?msg= [32m200 [0m1.125 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.074 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333?msg= [32m200 [0m1.318 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m5.311 ms - 1520[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333 [32m200 [0m2.110 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333 [32m200 [0m2.896 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":24}]
+[0mGET /users/201133333 [32m200 [0m1.202 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m11.656 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":25}]
+[0mGET /users/201133333 [32m200 [0m1.648 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.232 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":26}]
+[0mGET /users/201133333 [32m200 [0m1.154 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m13.867 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":27}]
+[0mGET /users/201133333 [32m200 [0m1.260 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.292 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.346 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.053 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.117 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.126 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m2.896 ms - 45[0m
+[0mGET / [32m200 [0m9.799 ms - 228[0m
+[0mGET / [32m200 [0m6.731 ms - 228[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m4.825 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.315 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.755 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.489 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.172 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.700 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.340 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m2.208 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.107 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.270 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.285 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.604 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.134 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.147 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.352 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.626 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.328 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.294 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.126 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.526 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.322 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.282 ms - 45[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m6.729 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m2.281 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m4.519 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.373 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m4.283 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.267 ms - 45[0m
+rows : []
+[0mGET /users/201139374?msg= [32m200 [0m1.178 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.191 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.086 ms - 45[0m
+[0mGET / [32m200 [0m5.759 ms - 228[0m
+rows : []
+[0mGET /users/222654700 [32m200 [0m1.168 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.146 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m3.300 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.182 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.052 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.156 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.131 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":0}]
+[0mGET /users/201612345 [32m200 [0m1.183 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.351 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.200 ms - 47[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m1.120 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m1.082 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m4.831 ms - 45[0m
+[0mGET /script [33m404 [0m7.363 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.334 ms - 47[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m1.214 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m1.637 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.649 ms - 47[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.126 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.237 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.965 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.354 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.872 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.340 ms - 1782[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.504 ms - 1782[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.252 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.367 ms - 47[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.254 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m2.392 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.284 ms - 47[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.205 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.229 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.767 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.094 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.403 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m8.126 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m4.597 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.052 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m4.238 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.107 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.484 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.228 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.260 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.573 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.140 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.100 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.081 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.110 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.442 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.272 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.108 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.632 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m1.239 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333?msg= [32m200 [0m2.550 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.546 ms - 1782[0m
+rows : [{"id":201133333,"name":"짱구","count":28}]
+[0mGET /users/201133333 [32m200 [0m12.020 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.436 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":29}]
+[0mGET /users/201133333 [32m200 [0m1.184 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.311 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":30}]
+[0mGET /users/201133333 [32m200 [0m1.146 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m8.498 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":31}]
+[0mGET /users/201133333 [32m200 [0m1.172 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.013 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":32}]
+[0mGET /users/201133333 [32m200 [0m1.097 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.791 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":33}]
+[0mGET /users/201133333 [32m200 [0m1.191 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m3.946 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333 [32m200 [0m1.126 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.130 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.100 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.470 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.129 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m3.422 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.362 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.072 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.021 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.446 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.136 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.075 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.437 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.071 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.745 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.469 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.005 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.065 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.379 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.079 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m2.281 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.414 ms - 2177[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.327 ms - 2177[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.392 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.146 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.074 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.466 ms - 2177[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.143 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m2.056 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333 [32m200 [0m1.073 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":1}]
+[0mGET /users/201612345 [32m200 [0m1.070 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.261 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":2}]
+[0mGET /users/201612345 [32m200 [0m1.047 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.192 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333 [32m200 [0m1.110 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m3.751 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333?msg= [32m200 [0m1.040 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.389 ms - 2177[0m
+rows : []
+[0mGET /users/200612345 [32m200 [0m5.813 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333 [32m200 [0m2.303 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":3}]
+[0mGET /users/201612345 [32m200 [0m1.136 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m7.240 ms - 2[0m
+rows : []
+[0mGET /users/200612345 [32m200 [0m1.026 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":34}]
+[0mGET /users/201133333 [32m200 [0m1.070 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m9.947 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.101 ms - 45[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m14.348 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":4}]
+[0mGET /users/201612345 [32m200 [0m1.088 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m9.758 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":5}]
+[0mGET /users/201612345 [32m200 [0m1.083 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.199 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.072 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.699 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.014 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.125 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.058 ms - 45[0m
+[0mGET / [32m200 [0m3.799 ms - 228[0m
+[0mHEAD / [32m200 [0m4.680 ms - 228[0m
+[0mGET /users/201133333/data [32m200 [0m4.835 ms - 2242[0m
+rows : []
+[0mGET /users/201133343?msg= [32m200 [0m1.949 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333?msg= [32m200 [0m1.832 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333?msg= [32m200 [0m1.148 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.458 ms - 2242[0m
+rows : [{"id":201133333,"name":"짱구","count":35}]
+[0mGET /users/201133333 [32m200 [0m1.108 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.365 ms - 2[0m
+[0mPOST /users/201133333/data [33m404 [0m5.259 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m5.211 ms - 1208[0m
+[0mGET /users/201133333/data [32m200 [0m2.084 ms - 2308[0m
+[0mGET /users/201133333/data [32m200 [0m4.203 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.101 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.102 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.479 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.085 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.076 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.164 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.060 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.739 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.279 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.174 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m4.909 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.123 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.122 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.537 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.077 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.064 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.360 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m2.525 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.103 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.380 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.088 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.064 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.404 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.255 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.836 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.128 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.065 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.064 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.466 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.088 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.172 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.392 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.107 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m3.252 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.394 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.094 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.067 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.060 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.069 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.461 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.117 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.154 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.440 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.084 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.106 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.366 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.079 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.047 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m3.066 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.095 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.057 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.350 ms - 2308[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.432 ms - 2308[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.390 ms - 2308[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m0.997 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m3.188 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m2.650 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.914 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m0.978 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.041 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.763 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.873 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.712 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.759 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.644 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.792 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.974 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.695 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.155 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.076 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.092 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.067 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.044 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.312 ms - 529[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.084 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.920 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.059 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.019 ms - 2[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m0.957 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.124 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.132 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.226 ms - 529[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.080 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333?msg= [32m200 [0m1.033 ms - 45[0m
+[0mGET /users/201133333/data?msg= [32m200 [0m1.073 ms - 2[0m
+rows : []
+[0mGET /users/201149595?msg= [32m200 [0m1.040 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.760 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.034 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.086 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.137 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.078 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.180 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.749 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.031 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.183 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.124 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.009 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m2.525 ms - 529[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.129 ms - 529[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m2.753 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m0.979 ms - 47[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345?msg= [32m200 [0m1.738 ms - 47[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.103 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":6}]
+[0mGET /users/201612345 [32m200 [0m1.820 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.007 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":7}]
+[0mGET /users/201612345 [32m200 [0m1.076 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m14.773 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":8}]
+[0mGET /users/201612345 [32m200 [0m1.063 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.161 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":9}]
+[0mGET /users/201612345 [32m200 [0m1.056 ms - 47[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.069 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":10}]
+[0mGET /users/201612345 [32m200 [0m1.673 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.254 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333 [32m200 [0m1.103 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333 [32m200 [0m1.150 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":36}]
+[0mGET /users/201133333 [32m200 [0m1.028 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.141 ms - 2[0m
+rows : []
+[0mGET /users/981234567 [32m200 [0m1.035 ms - 2[0m
+rows : []
+[0mGET /users/222222222 [32m200 [0m1.094 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":11}]
+[0mGET /users/201612345 [32m200 [0m4.094 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":11}]
+[0mGET /users/201612345 [32m200 [0m2.929 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.074 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":12}]
+[0mGET /users/201612345 [32m200 [0m3.794 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.047 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":13}]
+[0mGET /users/201612345 [32m200 [0m1.122 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.398 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":14}]
+[0mGET /users/201612345 [32m200 [0m1.075 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":14}]
+[0mGET /users/201612345 [32m200 [0m1.580 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":14}]
+[0mGET /users/201612345 [32m200 [0m3.949 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m6.372 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":15}]
+[0mGET /users/201612345 [32m200 [0m1.031 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m3.995 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":16}]
+[0mGET /users/201612345 [32m200 [0m1.085 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m6.009 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":17}]
+[0mGET /users/201612345 [32m200 [0m1.049 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.389 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":18}]
+[0mGET /users/201612345 [32m200 [0m1.034 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":18}]
+[0mGET /users/201612345 [32m200 [0m1.106 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m8.375 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":19}]
+[0mGET /users/201612345 [32m200 [0m1.051 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.637 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":20}]
+[0mGET /users/201612345 [32m200 [0m1.081 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.963 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":21}]
+[0mGET /users/201612345 [32m200 [0m1.718 ms - 48[0m
+[0mPOST / [33m404 [0m6.166 ms - 1208[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.847 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":22}]
+[0mGET /users/201612345 [32m200 [0m1.060 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.993 ms - 2[0m
+rows : []
+[0mGET /users/285746580 [32m200 [0m1.085 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":23}]
+[0mGET /users/201612345 [32m200 [0m1.108 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m6.363 ms - 2[0m
+rows : []
+[0mGET /users/201458207 [32m200 [0m1.067 ms - 2[0m
+rows : []
+[0mGET /users/204618580 [32m200 [0m0.975 ms - 2[0m
+rows : []
+[0mGET /users/201458507 [32m200 [0m1.000 ms - 2[0m
+rows : []
+[0mGET /users/204048288 [32m200 [0m1.049 ms - 2[0m
+rows : []
+[0mGET /users/201345786 [32m200 [0m0.990 ms - 2[0m
+rows : []
+[0mGET /users/123456789 [32m200 [0m1.025 ms - 2[0m
+rows : []
+[0mGET /users/222222222 [32m200 [0m1.034 ms - 2[0m
+rows : []
+[0mGET /users/201485285 [32m200 [0m0.999 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":24}]
+[0mGET /users/201612345 [32m200 [0m1.081 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.978 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":25}]
+[0mGET /users/201612345 [32m200 [0m1.026 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.377 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":26}]
+[0mGET /users/201612345 [32m200 [0m1.211 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.205 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":37}]
+[0mGET /users/201133333 [32m200 [0m1.117 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m14.500 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":38}]
+[0mGET /users/201133333 [32m200 [0m1.098 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.280 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":39}]
+[0mGET /users/201133333 [32m200 [0m1.093 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.105 ms - 2[0m
+rows : []
+[0mGET /users/112007789 [32m200 [0m1.031 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":40}]
+[0mGET /users/201133333 [32m200 [0m1.088 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.431 ms - 2[0m
+rows : []
+[0mGET /users/201138085 [32m200 [0m1.053 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":27}]
+[0mGET /users/201612345 [32m200 [0m1.125 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.005 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":41}]
+[0mGET /users/201133333 [32m200 [0m1.944 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m6.993 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":28}]
+[0mGET /users/201612345 [32m200 [0m1.059 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.448 ms - 2[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m6.345 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":29}]
+[0mGET /users/201612345 [32m200 [0m1.079 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":29}]
+[0mGET /users/201612345 [32m200 [0m6.179 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m12.669 ms - 2[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m5.394 ms - 1208[0m
+rows : [{"id":201133333,"name":"짱구","count":42}]
+[0mGET /users/201133333 [32m200 [0m1.121 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":42}]
+[0mGET /users/201133333 [32m200 [0m1.035 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m10.959 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m1.022 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m0.997 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.067 ms - 529[0m
+[0mPOST /users/201133333/data [33m404 [0m7.292 ms - 1208[0m
+[0mPOST /users/201133333/data [33m404 [0m6.851 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m1.097 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m6.945 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m10.028 ms - 2[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.102 ms - 529[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m1.065 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":30}]
+[0mGET /users/201612345?msg= [32m200 [0m0.999 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.156 ms - 529[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m10.661 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.032 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.092 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.887 ms - 595[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.014 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.018 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.223 ms - 595[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.077 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":31}]
+[0mGET /users/201612345?msg= [32m200 [0m1.805 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.177 ms - 595[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.180 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345?msg= [32m200 [0m0.988 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345?msg= [32m200 [0m0.982 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.081 ms - 463[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345?msg= [32m200 [0m3.048 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345?msg= [32m200 [0m0.968 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.165 ms - 463[0m
+[0mGET / [32m200 [0m7.959 ms - 228[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345 [32m200 [0m1.030 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":32}]
+[0mGET /users/201612345 [32m200 [0m1.052 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m3.758 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":33}]
+[0mGET /users/201612345 [32m200 [0m1.048 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.226 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":34}]
+[0mGET /users/201612345 [32m200 [0m1.026 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m15.008 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":35}]
+[0mGET /users/201612345 [32m200 [0m1.139 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m6.127 ms - 2[0m
+rows : []
+[0mGET /users/201612356?msg= [32m200 [0m1.015 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":36}]
+[0mGET /users/201612345?msg= [32m200 [0m1.064 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":36}]
+[0mGET /users/201612345?msg= [32m200 [0m1.033 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m1.169 ms - 727[0m
+rows : [{"id":201133333,"name":"짱구","count":44}]
+[0mGET /users/201133333 [32m200 [0m1.046 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.375 ms - 2[0m
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/npm-debug.log
+Express server listening on port 9000
+[0mGET /777778881 [33m404 [0m316.936 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":36}]
+[0mGET /users/201612345 [32m200 [0m17.620 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":36}]
+[0mGET /users/201612345 [32m200 [0m3.865 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m20.018 ms - 2[0m
+rows : []
+[0mGET /users/201612344 [32m200 [0m1.604 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":37}]
+[0mGET /users/201612345 [32m200 [0m4.301 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m15.309 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":45}]
+[0mGET /users/201133333 [32m200 [0m2.148 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.483 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":38}]
+[0mGET /users/201612345 [32m200 [0m1.972 ms - 48[0m
+rows : [{"id":201133333,"name":"짱구","count":46}]
+[0mGET /users/201133333 [32m200 [0m3.453 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.633 ms - 2[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m54.662 ms - 1208[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m22.943 ms - 1208[0m
+[0mGET /adm/status.asp [33m404 [0m24.576 ms - 1208[0m
+[0mGET / [32m200 [0m18.527 ms - 228[0m
+[0mHEAD / [32m200 [0m10.568 ms - 228[0m
+[0mHEAD / [32m200 [0m10.386 ms - 228[0m
+[0mHEAD /wp-login.php [33m404 [0m12.956 ms - 1208[0m
+[0mHEAD /wp-content/ [33m404 [0m9.341 ms - 1208[0m
+[0mHEAD /magmi/ [33m404 [0m11.819 ms - 1208[0m
+[0mHEAD /skin/adminhtml/ [33m404 [0m10.463 ms - 1208[0m
+[0mHEAD /app/Mage.php [33m404 [0m7.878 ms - 1208[0m
+[0mHEAD / [32m200 [0m8.150 ms - 228[0m
+[0mHEAD /wp-login.php [33m404 [0m10.339 ms - 1208[0m
+[0mHEAD /wp-content/ [33m404 [0m8.427 ms - 1208[0m
+[0mHEAD /magmi/ [33m404 [0m11.674 ms - 1208[0m
+[0mHEAD /skin/adminhtml/ [33m404 [0m11.956 ms - 1208[0m
+[0mHEAD /app/Mage.php [33m404 [0m8.513 ms - 1208[0m
+[0mGET /user/soapCaller.bs [33m404 [0m37.780 ms - 1208[0m
+rows : [{"id":201612345,"name":"라이언","count":38}]
+[0mGET /users/201612345 [32m200 [0m6.845 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":38}]
+[0mGET /users/201612345 [32m200 [0m2.242 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.120 ms - 2[0m
+rows : []
+[0mGET /users/201612344 [32m200 [0m1.370 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":39}]
+[0mGET /users/201612345 [32m200 [0m2.572 ms - 48[0m
+rows : []
+[0mGET /users/220161234 [32m200 [0m2.021 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":39}]
+[0mGET /users/201612345 [32m200 [0m9.730 ms - 48[0m
+[0mGET /manager/html [33m404 [0m52.406 ms - 1208[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.305 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":40}]
+[0mGET /users/201612345 [32m200 [0m1.867 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.593 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":41}]
+[0mGET /users/201612345 [32m200 [0m1.257 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m7.584 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":42}]
+[0mGET /users/201612345 [32m200 [0m1.625 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":42}]
+[0mGET /users/201612345 [32m200 [0m1.194 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.582 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":43}]
+[0mGET /users/201612345 [32m200 [0m2.128 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":43}]
+[0mGET /users/201612345 [32m200 [0m3.353 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.169 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":47}]
+[0mGET /users/201133333 [32m200 [0m1.795 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":44}]
+[0mGET /users/201612345 [32m200 [0m3.679 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":44}]
+[0mGET /users/201612345 [32m200 [0m1.401 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m8.691 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":45}]
+[0mGET /users/201612345 [32m200 [0m1.387 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m9.373 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":46}]
+[0mGET /users/201612345 [32m200 [0m1.255 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.731 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":47}]
+[0mGET /users/201612345 [32m200 [0m1.260 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.705 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":48}]
+[0mGET /users/201612345 [32m200 [0m1.712 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m12.621 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":49}]
+[0mGET /users/201612345 [32m200 [0m1.364 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.914 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":50}]
+[0mGET /users/201612345 [32m200 [0m1.606 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m9.973 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":51}]
+[0mGET /users/201612345 [32m200 [0m5.956 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m8.479 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":47}]
+[0mGET /users/201133333 [32m200 [0m8.439 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m5.791 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":48}]
+[0mGET /users/201133333 [32m200 [0m1.304 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m17.093 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":49}]
+[0mGET /users/201133333 [32m200 [0m2.178 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m9.875 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":50}]
+[0mGET /users/201133333 [32m200 [0m2.769 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m13.993 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":52}]
+[0mGET /users/201612345 [32m200 [0m1.904 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.986 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":51}]
+[0mGET /users/201133333 [32m200 [0m1.164 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":51}]
+[0mGET /users/201133333 [32m200 [0m1.177 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":51}]
+[0mGET /users/201133333 [32m200 [0m1.229 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.220 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":52}]
+[0mGET /users/201133333 [32m200 [0m1.210 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.662 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":53}]
+[0mGET /users/201133333 [32m200 [0m1.877 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":53}]
+[0mGET /users/201133333 [32m200 [0m1.188 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m7.318 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":54}]
+[0mGET /users/201133333 [32m200 [0m1.193 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":53}]
+[0mGET /users/201612345 [32m200 [0m1.256 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.058 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":54}]
+[0mGET /users/201133333 [32m200 [0m1.180 ms - 45[0m
+rows : [{"id":201133333,"name":"짱구","count":54}]
+[0mGET /users/201133333 [32m200 [0m1.178 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m7.203 ms - 2[0m
+[0mHEAD / [32m200 [0m22.245 ms - 228[0m
+rows : [{"id":201612345,"name":"라이언","count":54}]
+[0mGET /users/201612345 [32m200 [0m1.252 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m13.407 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":55}]
+[0mGET /users/201612345 [32m200 [0m1.269 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.125 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":55}]
+[0mGET /users/201133333 [32m200 [0m2.340 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.577 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":56}]
+[0mGET /users/201612345 [32m200 [0m1.336 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.362 ms - 2[0m
+rows : []
+[0mGET /users/405808911 [32m200 [0m1.309 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":57}]
+[0mGET /users/201612345 [32m200 [0m1.190 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m7.442 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":58}]
+[0mGET /users/201612345 [32m200 [0m1.302 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":58}]
+[0mGET /users/201612345 [32m200 [0m1.321 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.354 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":59}]
+[0mGET /users/201612345 [32m200 [0m1.246 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m16.280 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":60}]
+[0mGET /users/201612345 [32m200 [0m2.006 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":60}]
+[0mGET /users/201612345 [32m200 [0m1.439 ms - 48[0m
+rows : [{"id":201133333,"name":"짱구","count":56}]
+[0mGET /users/201133333 [32m200 [0m1.171 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m17.008 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":57}]
+[0mGET /users/201133333 [32m200 [0m1.400 ms - 45[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201133333 [32m200 [0m4.534 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":60}]
+[0mGET /users/201612345 [32m200 [0m1.306 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m4.069 ms - 2[0m
+rows : [{"id":201133333,"name":"짱구","count":58}]
+[0mGET /users/201133333 [32m200 [0m1.282 ms - 45[0m
+rows : [{"id":201612345,"name":"라이언","count":61}]
+[0mGET /users/201612345 [32m200 [0m2.044 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m9.032 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":62}]
+[0mGET /users/201612345 [32m200 [0m1.314 ms - 48[0m
+rows : []
+[0mGET /users/201612344 [32m200 [0m1.098 ms - 2[0m
+rows : []
+[0mGET /users/201612234 [32m200 [0m1.144 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":62}]
+[0mGET /users/201612345?msg= [32m200 [0m1.962 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":62}]
+[0mGET /users/201612345?msg= [32m200 [0m1.869 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":62}]
+[0mGET /users/201612345 [32m200 [0m1.260 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m5.666 ms - 2[0m
+rows : [{"id":201612345,"name":"라이언","count":63}]
+[0mGET /users/201612345?msg= [32m200 [0m1.320 ms - 48[0m
+rows : [{"id":201612345,"name":"라이언","count":63}]
+[0mGET /users/201612345?msg= [32m200 [0m2.363 ms - 48[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m3.655 ms - 2494[0m
+[0mGET /users/201612345/data?msg= [32m200 [0m2.210 ms - 2494[0m
+rows : [{"id":201612345,"name":"라이언","count":63}]
+[0mGET /users/201612345 [32m200 [0m5.911 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201612345 [32m200 [0m17.011 ms - 2[0m

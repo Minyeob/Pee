@@ -1,0 +1,210 @@
+
+> test1@0.0.0 start /home/ubuntu/node-project/test1
+> nodemon app.js
+
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+
+npm ERR! Linux 4.4.0-51-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v4.2.6
+npm ERR! npm  v3.5.2
+npm ERR! code ELIFECYCLE
+npm ERR! test1@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the test1@0.0.0 start script 'nodemon app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the test1 package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     nodemon app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs test1
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls test1
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ubuntu/node-project/test1/routes/npm-debug.log
+Express server listening on port 9000
+[0mGET / [32m200 [0m443.689 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m5.184 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m42.226 ms - 1208[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m15.547 ms - 48[0m
+[0mGET /users/201120857/data [32m200 [0m6.351 ms - 149[0m
+[0mGET / [32m200 [0m36.241 ms - 228[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.105 ms - 111[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.937 ms - 48[0m
+[0mGET / [32m200 [0m18.208 ms - 228[0m
+[0mGET / [32m200 [0m26.520 ms - 228[0m
+[0mGET / [32m200 [0m11.691 ms - 228[0m
+[0mGET / [32m200 [0m10.754 ms - 228[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.799 ms - 48[0m
+[0mGET / [32m200 [0m10.178 ms - 228[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m3.893 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m3.039 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.178 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.228 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.314 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.289 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.167 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m3.014 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.354 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.343 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.296 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.283 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.260 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.727 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.572 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.301 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.661 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.289 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.419 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.049 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.627 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.574 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.752 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.214 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.916 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.899 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.600 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.986 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.605 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.254 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.349 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.379 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.370 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.178 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.216 ms - 48[0m
+[0mGET /users/201120857/data [32m200 [0m4.133 ms - 149[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m1.790 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m12.491 ms - 1208[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m49.591 ms - 61[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m2.538 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m4.972 ms - 61[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.323 ms - 48[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m4.370 ms - 61[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.383 ms - 48[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [36m304 [0m1.387 ms - -[0m
+[0mGET /users/201120857/data [32m200 [0m1.463 ms - 371[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m3.203 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m3.091 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m3.296 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.278 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.936 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m3.404 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m13.074 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m6.796 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.782 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.325 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.298 ms - 60[0m
+rows : [{"id":201120857,"name":"남민엽","count":44}]
+[0mGET /users/201120857 [32m200 [0m1.515 ms - 48[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.483 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.321 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m3.660 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.358 ms - 60[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m4.347 ms - 60[0m
+[0mPOST /users/201120857/data [33m404 [0m8.346 ms - 1208[0m
+[0mGET /users/201120857/data [32m200 [0m1.889 ms - 371[0m
+[0mGET /users/201120857/data [32m200 [0m1.334 ms - 371[0m
+[0mGET /users/201120857/data [32m200 [0m1.387 ms - 371[0m
+err : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+rows : undefined
+[0mPOST /users/201120857 [32m200 [0m2.526 ms - 60[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m4.067 ms - 61[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404 [0m11.315 ms - 1208[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m3.898 ms - 61[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m5.170 ms - 61[0m
+rows : {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+[0mPOST /users/201120857 [32m200 [0m7.340 ms - 61[0m

@@ -1,0 +1,202 @@
+#include <MsTimer2.h>
+#include <Servo.h>
+
+bool b = false;
+bool using_out;
+bool flag2;
+bool flag3;
+bool flag4;
+bool flag5;
+bool flag6;
+bool MsTimer_flag = false;
+bool bool_out = false;
+bool bool_close = false;
+char input[3] = { 0 };
+char temp = 0;
+int out_cnt = 0;
+Servo servo1;
+Servo servo2;
+int pos1 = 90;
+int pos2 = 90;
+int sensorval = 0;
+int sensorval2 = 0;
+int trigPin = 13;
+int echoPin = 12;
+int close_time = 0;
+float duration, distance;
+
+void setup()
+{
+	servo1.attach(9);
+	servo2.attach(10);
+	Serial.begin(9600);
+	pinMode(trigPin, OUTPUT);
+	pinMode(echoPin, INPUT);
+	MsTimer2::set(1000, CloseTimer);  //set the timer to use 'close door counter'
+}
+
+void loop()
+{
+	int i = 0;
+	input[i] = '0';
+
+	if (Serial.available())	//receive protocol data from e-cube board
+		while (Serial.available() && ((temp = Serial.read()) != '@'))
+		{
+			input[i++] = temp;
+		}
+
+	if (input[0] == '1')   //user logins
+	{
+		using_out = false;
+		flag2 = false;
+		flag3 = false;
+		flag4 = false;
+		flag5 = false;
+		flag6 = false;
+		MsTimer_flag = false;
+		bool_out = false;
+		bool_close = false;
+		b = true;
+		out_cnt = 0;
+		close_time = 0;
+	}
+	else if (input[0] == '7')  //end peeing
+	{
+		ServoMotor_Close();
+		MsTimer2::stop();
+		b = false;
+	}
+
+	else if (input[0] == '8')  //open the door in admin mode 
+	{
+		ServoMotor_Open();
+	}
+
+	else if (input[0] == '9')  //close the door in admin mode
+	{
+		ServoMotor_Close();
+	}
+
+	if (b)
+	{
+		Pressure();
+		if (!flag3)    //user login however, no use
+		{
+			if (!MsTimer_flag)
+			{
+				bool_out = true;
+				MsTimer2::start();
+				MsTimer_flag = true;
+			}
+			if (out_cnt >= 8)   //user is out of footpanel during 8 seconds
+			{
+				Serial.println("2/@");
+				MsTimer2::stop();
+				bool_out = false;
+				b = false;
+			}
+		}
+
+		if (sensorval2 >= 500)   //user is on footpanel
+		{
+			out_cnt = 0;
+			close_time = 0;
+			Ultra();
+			Serial.print("distance : ");
+			Serial.println(distance);
+			if (distance < 18 && !flag3)    //user is located enough distance : 18cm
+			{
+				ServoMotor_Open();
+				Serial.println("3/@");
+				MsTimer_flag = false;
+				flag3 = true;
+			}
+			if (using_out)   //user comes back
+			{
+				Serial.println("6/@");
+				MsTimer2::stop();
+				MsTimer_flag = false;
+				close_time = 0;
+			}
+			using_out = false;
+		}
+
+		else if ((sensorval2 < 500) && flag3)   //user is located unstable position
+		{
+			using_out = true;
+		}
+
+		if (using_out == true)   //measure time untill 8 seconds  
+		{
+			if (!MsTimer_flag)
+			{
+				bool_close = true;
+				MsTimer2::start();
+				MsTimer_flag = true;
+			}
+
+			if (close_time == 8)   //if 8 seconds pass, close the door
+			{
+				MsTimer2::stop();
+				bool_close = false;
+				MsTimer_flag = false;
+				close_time = 0;
+				ServoMotor_Close();
+				Serial.println("4/@");
+				b = false;
+			}
+		}
+	}
+}
+
+/*sensor function*/
+void Pressure()   //pressure sensor
+{
+	sensorval = analogRead(A0);
+	sensorval2 = analogRead(A1);
+}
+
+void Ultra()    //ultrasonics sensor
+{
+	digitalWrite(trigPin, HIGH);
+	delay(10);
+	digitalWrite(trigPin, LOW);
+
+	duration = pulseIn(echoPin, HIGH);
+	distance = ((float)(340 * duration) / 10000) / 2;
+
+	delay(500);
+}
+
+void ServoMotor_Open()  //2 servo motor open
+{
+	for (; pos1 >= 1 && pos2 < 180; pos1 -= 1, pos2 += 1) 
+	{ 
+		servo1.write(pos1);
+		servo2.write(pos2);
+	}
+}
+
+void ServoMotor_Close() //2 servo motor close
+{
+	for (; pos1 < 90 && pos2 >= 90; pos1 += 1, pos2 -= 1)  
+	{
+		servo1.write(pos1);
+		servo2.write(pos2);
+	}
+}
+
+void CloseTimer() //Close Counter Timer
+{
+	if (bool_out)	//use counting door close count
+	{
+		out_cnt++;
+	}
+
+	if (bool_close)	//send type 5 protocol message to e-cube board
+	{
+		close_time++;
+		Serial.println("5/" + String(close_time) + "@");
+	}
+}

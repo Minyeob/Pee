@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_alignParentLeft="true">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical">-->
+
+
+
+
+
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="40dp"-->
+                <!--android:orientation="vertical" >-->
+
+                <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="사용자 정보 : " />-->
+
+                <TextView
+                    android:id="@+id/tv_recvData"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="25dp"/>
+
+
+                <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="횟수 : " />-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btn_sendData"
+                        style="?android:attr/buttonStyleSmall"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableTop="@drawable/show_detail"
+                        android:background="#00ff0000"
+                        android:layout_marginRight="50dp"
+                         />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableTop="@drawable/show_chart"
+                        android:background="#00ff0000"
+                        android:onClick="onClick2"
+                        android:id="@+id/btn_chart"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout android:id="@+id/header"
+                    android:background="#fffbe2"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+
+                    >
+
+                    <TextView android:id="@+id/item1"
+                        android:layout_height="fill_parent"
+                        android:layout_width="wrap_content"
+                        android:text="소요시간"
+                        android:layout_marginTop="10dp"
+                        android:width="100dp"
+                        android:height="30dip"
+                        />
+                    <TextView android:id="@+id/item2"
+                        android:layout_height="fill_parent"
+                        android:layout_width="wrap_content"
+                        android:text="시각"
+                        android:layout_marginTop="10dp"
+                        android:width="100dp"
+                        android:height="30dip"
+                        />
+                    </LinearLayout>
+
+                <LinearLayout android:id="@+id/layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                   >
+                    <ListView android:id="@+id/listview"
+                        android:layout_height="406dp"
+                        android:layout_width="wrap_content">
+                    </ListView>
+                </LinearLayout>
+                </LinearLayout>
+
+                <!--<TextView-->
+                    <!--android:id="@+id/show_data"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"/>-->
+
+
+            <!--</LinearLayout>-->
+        <!--</LinearLayout>-->
+
+    <!--</ScrollView>-->
+
+
+</LinearLayout>

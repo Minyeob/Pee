@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pee.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\pee.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\show_detail.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\show_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\show_chart.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backimage.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\backimage.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginbackground.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\loginbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\imageyellow.png",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\imageyellow.png"
+    }
+]

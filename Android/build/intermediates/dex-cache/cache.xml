@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf483d83792423bf4aa04634d28369f1e4d111">
+        <dex dex="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\pre-dexed\debug\instant-run_6977c0bbf0bff91e5130fac4fbfb3ae50982ccee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\libs\mpandroidchartlibrary-2-0-7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a807c2bae92197c1ac5a43218824c4dbf9d6edc">
+        <dex dex="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-0-7_ea584322c94e8a736eb7cfd936af3fdd34c1f39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf6ff1783fdf72748e0223b8c991799bacf0f161">
+        <dex dex="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6a7a0005d6cbe521f02917b6e136d1cfa1d657b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jeonjinwoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\jeonjinwoo\AndroidStudioProjects\AndroidSendReceiveTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_80543091811850d00b87a243eb5f04fd4c60c0e2.jar" />
+    </item>
+
+</items>

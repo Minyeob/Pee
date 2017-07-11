@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart_activity.xml",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\chart_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_activity.xml",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\layout\\show_activity.xml"
+    }
+]

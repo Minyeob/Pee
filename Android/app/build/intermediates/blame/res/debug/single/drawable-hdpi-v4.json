@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yellowyellow.jpg",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\yellowyellow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apee.PNG",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\apee.PNG"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backyellow.jpg",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\backyellow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yellow.jpg",
+        "source": "C:\\Users\\jeonjinwoo\\AndroidStudioProjects\\AndroidSendReceiveTest\\app\\src\\main\\res\\drawable-hdpi\\yellow.jpg"
+    }
+]

@@ -1,0 +1,51 @@
+extends layout
+
+block content
+    h1=title
+
+    form(action="/board/write" method="post" onsubmit='return Check()')
+        table(border=1)
+            tr
+                td  작성자
+                td
+                    input(type="text" name="Seller_id" id="Seller_id" required)
+            tr
+                td  제목
+                td
+                    input(type="text" name="Title" id="Title" required)
+            tr
+                td  내용
+                td
+                    textarea(name="Content" id="Content" cols="40" rows="10" required)
+            tr
+                td(colspan="2")
+                    button(type="submit")   작성
+
+    script.
+        function Check() {
+            //element id를 찾아서 해당 값이 비어있으면 alert 해준다.
+            //해당 id값의 내용이 공백을 지우고 아무것도 없다면 비어있으므로 alert해준다. trim은 공백을 제거하는 함수
+            if ($("#Seller_id").val().trim() == "") {
+                var message = "작성자를 입력해 주세요";
+                $("#Seller_id").val("");
+                $("#Seller_id").focus();
+                alert(message);
+                return false;
+            }
+
+            if ($("#Title").val().trim() == "") {
+                var message = "제목을 입력해 주세요";
+                $("#Title").val("");
+                $("#Title").focus();
+                alert(message);
+                return false;
+            }
+
+            if ($("#Content").val().trim() == "") {
+                var message = "본문 내용을 입력해 주세요";
+                $("#Content").val("");
+                $("#Content").focus();
+                alert(message);
+                return false;
+            }
+        }
